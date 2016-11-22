@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<config>
+    <modules>
+        <Creation_Customcatattrb>
+            <active>true</active>
+            <codePool>local</codePool>
+        </Creation_Customcatattrb>
+    </modules>
+</config> 
